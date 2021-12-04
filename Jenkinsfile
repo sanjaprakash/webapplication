@@ -1,7 +1,7 @@
 pipeline{
     agent any
     tools {
-        jdk 'Java_Home'
+        jdk 'Java_Home_2'
         maven 'Maven_Home' 
     }
     triggers {
